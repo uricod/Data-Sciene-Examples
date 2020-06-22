@@ -10,7 +10,9 @@ https://bit.ly/2V6hEFE
 
 https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
 
-### Result
+
+
+### Result:
 
 ![newplot](https://user-images.githubusercontent.com/50647681/85329286-337fc500-b4a0-11ea-8737-44b9ebc190e1.png)
 
