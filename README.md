@@ -5,3 +5,7 @@ I was curious to find out if most stock moves come during market hours or from t
 ### To see the full data and play with it please use this link:
 
 https://bit.ly/2V6hEFE
+
+### Link to dataset is below
+
+https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
